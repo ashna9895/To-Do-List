@@ -43,7 +43,7 @@ The complete source code is available in `main.py`.
 
 ## Screenshots
 
-![To-Do List](Screenshot.png)
+![To-Do List](Screenshot 2026-05-30 210033.png)
 
 
 ## Documentation
